@@ -1,0 +1,10 @@
+
+# Ignore configuration files
+config.php
+
+# Ignore log files
+*.log
+
+# Ignore directories
+/node_modules/
+/vendor/
